@@ -59,7 +59,7 @@ GitHub Repository: View Source Code
 
 Clone the repository:
 
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/Shashank-Varidelly/credit-card-fraud-detection.git
 
 
 Install dependencies:
