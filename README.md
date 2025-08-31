@@ -1,4 +1,4 @@
-#### 🚀 Credit Card Fraud Detection System 💳🔍
+## 🚀 Credit Card Fraud Detection System 💳🔍
 
 A Machine Learning system to detect suspicious credit card transactions quickly and accurately, helping mitigate financial losses caused by fraud.
 
@@ -47,11 +47,11 @@ The system achieves high fraud detection accuracy while minimizing false positiv
 📂 Dataset
 
 Credit Card Fraud Dataset:
-Link to Dataset
+https://drive.usercontent.google.com/download?id=1118Jwzj51KpXd0T5jiebn9ykCygwbkhn&export=download&authuser=0&confirm=t&uuid=a026c456-0144-463d-97ad-92a2a648f6af&at=AN8xHooI5Dd3U2pwb9ZBG2v4bNHQ%3A1756537967051
 
 💻 Demo & Source Code
 
-Live Demo: Click here
+In the Repo
 
 GitHub Repository: View Source Code
 
