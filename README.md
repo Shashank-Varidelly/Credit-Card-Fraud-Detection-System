@@ -1,4 +1,4 @@
-## 🚀 Credit Card Fraud Detection System 💳🔍
+## 🚀 IntelliFraud(Credit Card Fraud Detection System) 💳🔍
 
 A Machine Learning system to detect suspicious credit card transactions quickly and accurately, helping mitigate financial losses caused by fraud.
 
@@ -59,7 +59,7 @@ GitHub Repository: View Source Code
 
 Clone the repository:
 
-git clone https://github.com/Shashank-Varidelly/credit-card-fraud-detection.git
+git clone https://github.com/Shashank-Varidelly/IntelliFraud.git
 
 
 Install dependencies:
